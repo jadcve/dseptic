@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/dseptic/!svn/ver/47/DSeptic/resources/views/operator
+END
+ticket_process.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dseptic/!svn/ver/46/DSeptic/resources/views/operator/ticket_process.blade.php
+END
+list_ticket.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dseptic/!svn/ver/47/DSeptic/resources/views/operator/list_ticket.blade.php
+END
+home.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dseptic/!svn/ver/40/DSeptic/resources/views/operator/home.blade.php
+END
+accept_ticket.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dseptic/!svn/ver/30/DSeptic/resources/views/operator/accept_ticket.blade.php
+END
+layout.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dseptic/!svn/ver/40/DSeptic/resources/views/operator/layout.blade.php
+END

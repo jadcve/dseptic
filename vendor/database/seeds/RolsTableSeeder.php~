@@ -1,0 +1,20 @@
+<?php
+
+class RolsTableSeeder extends Seeder {
+
+   /**
+    * Run the database seeds.
+    *
+    * @return void
+    */
+   public function run() {
+      $arrRol = array();
+      $arrRol[0] = array('name' => 'Admin');
+      
+      DB::table('rols')->insert($arrRol);
+      
+   }
+
+}
+
+?>

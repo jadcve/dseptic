@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/dseptic/!svn/ver/48/DSeptic/resources/views
+END
+home.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/dseptic/!svn/ver/40/DSeptic/resources/views/home.blade.php
+END
+welcome.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dseptic/!svn/ver/48/DSeptic/resources/views/welcome.blade.php
+END
+success.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dseptic/!svn/ver/17/DSeptic/resources/views/success.blade.php
+END
+mail.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/dseptic/!svn/ver/17/DSeptic/resources/views/mail.blade.php
+END
+message.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/dseptic/!svn/ver/43/DSeptic/resources/views/message.blade.php
+END
+sms.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/dseptic/!svn/ver/48/DSeptic/resources/views/sms.blade.php
+END
+sms2.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/dseptic/!svn/ver/48/DSeptic/resources/views/sms2.blade.php
+END
+layout.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/dseptic/!svn/ver/40/DSeptic/resources/views/layout.blade.php
+END
+sms3.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/dseptic/!svn/ver/48/DSeptic/resources/views/sms3.blade.php
+END

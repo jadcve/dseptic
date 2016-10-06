@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/dseptic/!svn/ver/47/DSeptic/resources/views/admin/user
+END
+register.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dseptic/!svn/ver/45/DSeptic/resources/views/admin/user/register.blade.php
+END
+edit.blade.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dseptic/!svn/ver/47/DSeptic/resources/views/admin/user/edit.blade.php
+END
